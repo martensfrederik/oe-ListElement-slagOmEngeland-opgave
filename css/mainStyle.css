@@ -19,3 +19,14 @@ body {
     margin-left: 20%;
     margin-right: 20%;
 }
+.raf{
+    list-style-image: url(/img/RAF_16.png);
+    list-style-position: inside;
+}
+.luft{
+    list-style-image: url(/img/Luftwaffe_16.png);
+    list-style-position: inside;
+}
+li{
+    margin-left: -40px;
+}
